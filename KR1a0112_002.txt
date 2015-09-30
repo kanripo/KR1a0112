@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 卦變考略
-#+DATE: 2015-09-23 09:35:16
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:58:18.156783
+#+PROPERTY: ID KR1a0112
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1a0112_WYG_002-1a>¶
 欽定四庫全書¶
 　卦變考畧卷下¶
@@ -398,4 +400,3 @@
 　四十部微言宻悟百齡心在可使金鏡重開珠囊復¶
 　理已¶
 　卦變考畧卷下¶
-
